@@ -2,6 +2,7 @@
   "name": "my-monorepo",
   "version": "1.0.0",
   "devDependencies": {
-    "tsc": "^2.0.4"
+    "tsc": "^2.0.4",
+    "tsup": "^6.5.0"
   }
 }
